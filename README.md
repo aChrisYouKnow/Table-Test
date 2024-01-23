@@ -5,7 +5,7 @@
 
 Wallet   |  Custodial?  |  OS             |  Channel Open Fees                          |  Liquidity Provider?  |  Lightning Tx Fees  |  Notes / Trade Offs
 ----------|--------------|-----------------|---------------------------------------------|-----------------------|---------------------|------------------------------------------
-Cash App  |  <span style="background-color:red;">Yes</span>         |  iOS / Android  |  N/A                                        |  N/A                  |  Free               |  Full KYC
+Cash App  |  <span style="color:red;">Yes</span>         |  iOS / Android  |  N/A                                        |  N/A                  |  Free               |  Full KYC
 Primal    |  Yes         |  iOS            |  N/A                                        |  N/A                  |  ~0-5 sats          |  Paired with Nostr Client
 Muun      |  No          |  iOS / Android  |  N/A                                        |  N/A                  |  On-Chain Fees      |  Stores Bitcoin On-Chain
 Aqua      |  No          |  iOS / Android  |  N/A                                        |  N/A                  |  ~500 sats          |  Stores Bitcoin on Liquid and can be Slow
