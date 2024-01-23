@@ -41,10 +41,6 @@ For simple changes, editing the .md file is probably sufficient. For larger chan
 
 (Information on how to request updates for existing tables – to be added)
 
-## 🔗 Useful Links
-
-(A collection of useful links and resources – to be added)
-
 ## 📜 License
 
 ComparisonTables is open source and made available under the MIT License.
