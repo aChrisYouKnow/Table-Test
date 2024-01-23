@@ -1,6 +1,6 @@
 
 
-## Lightning Comparison Table
+## Lightning Wallet Comparison Table
 
 
 Wallet   |  Custodial?  |  OS               |  Channel Open Fees                           |  Liquidity Provider?  |  Lightning Tx Fees  |  Open Source  |  Notes / Trade Offs
