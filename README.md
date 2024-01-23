@@ -7,6 +7,9 @@ Welcome to **ComparisonTables** – a repository dedicated to creating and maint
 These tables cover various categories and are designed to be comprehensive and user-friendly. Given the nature of the data, some tables may be extensive and are best viewed on larger screens. It may be post effective to copy and paste these tables into a spreadsheet for sorting and filtering as your need dictates. 
 
 ### Example Table: Lightning Wallet Comparison 
+  Notes:
+  - I think a more selective use of colored circles may be more effective. I plan to circle back here to experiement with that. 
+  - Keeping the columns narrow and moving longer notes/comments to below the table may be a better option. Play around with options there. 
 
 Wallet   |  Custodial?  |  OS               |  Channel Open Fees                           |  Liquidity Provider?  |  Lightning Tx Fees  |  Open Source  |  Notes / Trade Offs
 ----------|--------------|-------------------|----------------------------------------------|-----------------------|---------------------|---------------|----------------------------------------------
