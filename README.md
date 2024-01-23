@@ -29,7 +29,7 @@ Your contributions keep these tables relevant and valuable. If you'd like to sug
 
 ## 🔄 Markdown and CSV Conversion
 
-For simple changes, editing the .md file is probably sufficient. For larger changes, there are a number of tools to convert csv files to markdown. these include:
+For simple changes, editing the .md file is probably sufficient. For larger changes, there are a number of tools to convert csv files to markdown including:
   - Simple web tool: https://csvtomd.com/
   - Python script: https://github.com/mplewis/csvtomd
 
