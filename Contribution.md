@@ -1,12 +1,21 @@
 # Contributing to ComparisonTables
 
-Thank you for your interest in contributing to ComparisonTables! This guide will help you make contributions using GitHub's web interface, which is ideal for quick edits like updating values in a table.
+Thank you for your interest in contributing to ComparisonTables! This document provides a step-by-step guide for submitting contributions via pull requests, especially for those who are new to GitHub or open source. This guide will help you make contributions using GitHub's web interface, which is ideal for quick edits like updating values in a table.
+
+## Prerequisites
+
+Before you begin, ensure you have a GitHub account. If not, you can [sign up for a free account](https://github.com/join).
+
+## Fork the Repository
+
+1. Go to the `ComparisonTables` repository on GitHub.
+2. In the top-right corner of the page, click "Fork". This creates a copy of the repository in your GitHub account.
 
 ## Quick Edits Using GitHub’s Web Interface
 
 ### 1. Navigate to the File
 
-1. Go to the [ComparisonTables repository](https://github.com/aChrisYouKnow/ComparisonTables) on GitHub.
+1. Go to the ComparisonTables repository fork you created.
 2. Browse to the file you want to edit.
 
 ### 2. Edit the File
