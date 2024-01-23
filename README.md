@@ -9,7 +9,8 @@ These tables cover various categories and are designed to be comprehensive and u
 ### Example Table: Lightning Wallet Comparison 
   Notes:
   - I think a more selective use of colored circles may be more effective. I plan to circle back here to experiement with that. 
-  - Keeping the columns narrow and moving longer notes/comments to below the table (via links?) may be a better option. Play around with options there. 
+  - Keeping the columns narrow and moving longer notes/comments to below the table (via links?) may be a better option. Play around with options there.
+  - Turn all wallet names into links to main websites
 
 Wallet   |  Custodial?  |  OS               |  Channel Open Fees                           |  Liquidity Provider?  |  Lightning Tx Fees  |  Open Source  |  Notes / Trade Offs
 ----------|--------------|-------------------|----------------------------------------------|-----------------------|---------------------|---------------|----------------------------------------------
